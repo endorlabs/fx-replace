@@ -24,6 +24,7 @@ import (
 	"strings"
 
 	"go.uber.org/zap"
+	_ "go.uber.org/zap/1210"
 )
 
 // ZapLogger is an Fx event logger that logs events to Zap.
