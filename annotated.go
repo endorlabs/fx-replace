@@ -26,6 +26,7 @@ import (
 	"reflect"
 	"strings"
 
+	_ "github.com/endorlabs/fx-replace/fxevent/v2/lib"
 	"go.uber.org/dig"
 	"go.uber.org/fx/internal/fxreflect"
 )
