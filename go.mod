@@ -22,4 +22,4 @@ require (
 
 replace go.uber.org/zap/1210 => go.uber.org/zap v1.21.0
 
-replace go.uber.org/fx/internal/fxreflect => ./internal/fxreflect
+replace go.uber.org/fx/internal/fxreflect/v2 => ./internal/fxreflect

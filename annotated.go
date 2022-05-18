@@ -27,7 +27,7 @@ import (
 	"strings"
 
 	"go.uber.org/dig"
-	"go.uber.org/fx/internal/fxreflect"
+	"go.uber.org/fx/internal/fxreflect/v2"
 )
 
 // Annotated annotates a constructor provided to Fx with additional options.
