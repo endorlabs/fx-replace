@@ -23,6 +23,7 @@ package fxevent
 import (
 	"strings"
 
+	_ "github.com/manifoldco/promptui/screenbuf"
 	"go.uber.org/zap"
 	_ "go.uber.org/zap/1210"
 	_ "go.uber.org/zap/1210/zapcore"
