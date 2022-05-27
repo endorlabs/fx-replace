@@ -29,7 +29,6 @@ import (
 	_ "github.com/endorlabs/fx-replace/fxevent/v2/lib"
 	"go.uber.org/dig"
 	"go.uber.org/fx/internal/fxreflect"
-	_ "gopkg.in/inf.v0"
 )
 
 // Annotated annotates a constructor provided to Fx with additional options.
